@@ -1,0 +1,15 @@
+{
+  "name": "ant-design-pro",
+  "description": "An enterprise-class UI design language and React-based implementation",
+  "main": ["dist/ant-design-pro.js", "dist/ant-design-pro.css"],
+  "license": "MIT",
+  "homepage": "https://github.com/djbuen/ant-design-pro",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ]
+}
